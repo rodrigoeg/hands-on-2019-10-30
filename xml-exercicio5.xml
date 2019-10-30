@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <first_name>Name</first_name>
+    <last_name>Last name</last_name>
+    <email>email@example.com</email>
+    <phone>233443234</phone>
+    <login>username</login>
+  </user>
+  <user>
+    <first_name>Name</first_name>
+    <last_name>Last name</last_name>
+    <email>email@example.com</email>
+    <phone>233443234</phone>
+    <login>username</login>
+  </user>
+</users>
